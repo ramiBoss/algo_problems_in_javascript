@@ -1,3 +1,5 @@
+// Author: ramiBoss
+
 // Given a string, reverse each word in the sentence
 
 function getSeperator(){

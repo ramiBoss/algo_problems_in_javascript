@@ -1,3 +1,4 @@
+// Author: ramiBoss
 // empty and array in JS
 
 function assign_empty_array(){

@@ -1,3 +1,4 @@
+// Author: ramiBoss
 // currying example
 
 function mul(a){
@@ -16,4 +17,3 @@ function main(){
 }
 
 main();
-

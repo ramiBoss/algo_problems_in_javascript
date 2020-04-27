@@ -1,3 +1,4 @@
+// Author: ramiBoss
 //How would you check if a number is an integer
 
 function isInt(number){

@@ -1,3 +1,4 @@
+// Author: ramiBoss
 // closure example
 
 function counter(){
@@ -27,6 +28,18 @@ function main(){
 	console.log("Before: " + c.retrieve_value());
 	c.increment();
 	console.log("After: " + c.retrieve_value());
+
+	let d = counter();
+	console.log("Assigning to D");
+	console.log("Increment by Value");
+	console.log("Before: " + d.retrieve_value());
+	d.increment(5);
+	console.log("After: " + d.retrieve_value());
+	console.log("Increment");
+	console.log("Before: " + d.retrieve_value());
+	d.increment();
+	console.log("After: " + d.retrieve_value());
+
 }
 
 main()

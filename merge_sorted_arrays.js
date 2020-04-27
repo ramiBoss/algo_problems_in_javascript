@@ -1,3 +1,5 @@
+// Author: ramiBoss
+
 // merge sorted arrays
 
 function mergeArrays(theMatrix){
@@ -18,7 +20,7 @@ function main(){
 						[8,9,10,11]
 					];
 
-	console.log("The mergedList: " + mergeArrays(theMatrix));				
+	console.log("The mergedList: " + mergeArrays(theMatrix));
 }
 
 main();
